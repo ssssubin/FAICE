@@ -5,7 +5,7 @@
 - AI 스피커를 이용함으로써 **1인 가구원의 감정을 공유**할 수 있는 대상이 되어줄 수 있음
 
 ## 🪄 기술 스택
-－ OS: Debian
+- OS: Debian
 - Language: Python
 
 ## ⏰ 개발 기간
